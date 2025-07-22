@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # my-git-tutorial:)
-=======
-# my-git-tutorial:(
->>>>>>> 68f6db22cace842036b9a11cbb3b1803571d1421
 
 My name is Soriyana Hor. I am at the university.
 
