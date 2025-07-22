@@ -1,6 +1,6 @@
 # my-git-tutorial
 
-My name is Soriyana Hor
+My name is Soriyana Hor. I am at the university.
 
 This file has been edited on my computer.
 
